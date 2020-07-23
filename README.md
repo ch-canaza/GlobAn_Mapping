@@ -1,3 +1,3 @@
 # GlobAn Mapping 
 
-## Usage of basic Python functions and Libraries to map from shapefiles
+## Usage of Python functions and Libraries to map Santiago de Cali's data from shapefiles and public big data
