@@ -1,17 +1,16 @@
-![GlobAn Mapping](images/header_GlobAn_Mapping)
+![GlobAn Mapping](images/header_GlobAn_Mapping.png)
 
 # GLOBAN MAPPING - Plotting maps based of shapefiles
 
 This repository implements Python libraries and functions from Jupyter Notebooks to map Santiago de Cali's neighborgoods and plot open bid data on it for educational purposes.  
 
 ## Built With
-* Python 3
-Numpy - Pandas - Shapefile - Matplotlib - Seaborn
+* Python 3: Numpy - Pandas - Shapefile - Matplotlib - Seaborn
 * Jupyter Notebook
 
 ## Examples
-![GlobAn Mapping](images/example1)
-![GlobAn Mapping](images/example2)
+![GlobAn Mapping](images/example1.png)
+![GlobAn Mapping](images/example2.png)
 
 ## Contributing
 Open to contibuiting
