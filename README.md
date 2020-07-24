@@ -1,6 +1,6 @@
 ![GlobAn Mapping](images/header_GlobAn_Mapping.png)
 
-# GloBan Mapping - Maps plotted based of shapefiles
+# GlobAn Mapping - Maps plotted based of shapefiles
 
 This repository implements Python libraries and functions from Jupyter Notebooks to map Santiago de Cali's neighborgoods and plot open bid data on it for educational purposes.  
 
